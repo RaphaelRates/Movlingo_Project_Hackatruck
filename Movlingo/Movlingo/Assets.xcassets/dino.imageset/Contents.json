@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Imagem_do_WhatsApp_de_2024-09-10_…_s__19.05.53_d1e4e0db-removebg-preview 2.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
